@@ -32,3 +32,6 @@ parts:
     stage-packages:
       - libglew-dev
       - libglfw3-dev
+      - xorg-dev
+      - libgl1-mesa-dev
+      - libc++-dev
